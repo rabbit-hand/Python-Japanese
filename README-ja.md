@@ -490,15 +490,12 @@ JAPANESE_BUILTIN_MAP = {
 3. Pythonのバージョンが要件を満たしているか確認してください
 
 ## 貢献
-
-このプロジェクトは非公式の改造版であり、公式のPythonプロジェクトとは関係ありません。バグ報告や機能リクエストは、公式のPythonプロジェクト（https://github.com/python/cpython）に行ってください。
+このプロジェクトは非公式の改造版であり、公式のPythonプロジェクトとは関係ありません。
 
 ## ライセンス
-
 このプロジェクトは、元のCPythonと同じPSF License Agreementに従います。詳細は `LICENSE` ファイルを参照してください。
 
 ## リンク
-
 - 公式Pythonウェブサイト: https://www.python.org
 - 公式Pythonソースコード: https://github.com/python/cpython
 - 公式Pythonドキュメント: https://docs.python.org
